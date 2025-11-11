@@ -39,13 +39,7 @@ Voice-Emotion-Detection/
 │── requirements.txt       # Python dependencies
 │── README.md              # Project documentation
 
-📥 Installation
-✅ 1. Clone the Repository
-git clone https://github.com/yourusername/voice-emotion-detection.git
-cd voice-emotion-detection
 
-✅ 2. Install Dependencies
-pip install -r requirements.txt
 
 
 Example requirements.txt:
